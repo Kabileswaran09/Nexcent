@@ -448,7 +448,7 @@ nav {
  }
  .sq2{
   border: 1px solid;
-  height: 140px;
+  height: auto;
   width: 200px;
   text-align: center;
   background-color: #FFFFFF;
@@ -463,4 +463,5 @@ nav {
   justify-content: center;
   gap: 90px;
   margin-bottom: 30px;
+
  }
